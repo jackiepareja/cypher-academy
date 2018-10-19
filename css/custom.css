@@ -164,6 +164,10 @@ span.importance {
     .top-bar--light.navigation__students-colorlinks a {
         color: #fff;
     }
+    
+    .top-bar--light.navigation__students-colorlinks.is-fixed.top-bar--dark.is-visible a {
+        color: #777;
+    }
 
 }
 
